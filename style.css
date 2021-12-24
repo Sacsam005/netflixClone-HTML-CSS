@@ -94,8 +94,7 @@ img {
 }
 
 .showcase-content p {
-  text-transform: uppercase;
-  color: #fff;
+  color: rgb(226, 225, 225);
   font-weight: 400;
   font-size: 1.8rem;
   line-height: 1.25;
@@ -114,7 +113,7 @@ img {
   border-right: none;
 }
 
-.tab-item p {
+.tab-item i {
   color: #9999;
 }
 
@@ -223,9 +222,9 @@ img {
   text-align: left;
 }
 
-.table tbody tr td:first-child {
+/* .table tbody tr td:first-child {
   text-align: left;
-}
+} */
 
 .table tbody tr:nth-child(odd) {
   background: #222;
@@ -279,7 +278,6 @@ img {
   width: 70%;
   margin: auto;
   overflow: hidden;
-  padding: 0 2rem;
 }
 
 /* Text Styles */
